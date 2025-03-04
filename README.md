@@ -1,9 +1,14 @@
 # Introduction
 
-{% hint style="warning" %}
-Page under construction. We are working on this!\
-(Thanks for your understanding.)
-{% endhint %}
+{% include ".gitbook/includes/page-under-construction.....md" %}
+
+
+
+
+
+
+
+
 
 ### On the Spotlight <a href="#on-the-spotlight" id="on-the-spotlight"></a>
 

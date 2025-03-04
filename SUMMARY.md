@@ -3,7 +3,6 @@
 * [Introduction](README.md)
   * [Media Kit](introduction/media-kit.md)
   * [Frequently Asked Questions](introduction/frequently-asked-questions.md)
-* [TechUp Fellowship](<README (1).md>)
 
 ## Current Season
 
