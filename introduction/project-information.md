@@ -28,7 +28,25 @@ The TechUp Fellowship is organized around two engagement types:
 
 <table><thead><tr><th width="215"></th><th></th></tr></thead><tbody><tr><td>Activity-specific</td><td>Single meeting engagement focusing on specific work.</td></tr><tr><td>Season-wide</td><td>Full Season engagement with work encompassing a range of objectives. </td></tr><tr><td></td><td></td></tr></tbody></table>
 
+## Resources
+
+{% tabs %}
+{% tab title="About" %}
+This section contains links to resources related to this project.
+{% endtab %}
+
+{% tab title="Project" %}
+| Content              | (short)URL                                                                                                                       | QR Code                                                                  |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Project information  | [https://Short.TheIOFoundation.org/fellowship](https://short.theiofoundation.org/fellowship)                                     | <img src="../.gitbook/assets/image (1).png" alt="" data-size="original"> |
+| Fellowships Openings | [https://Short.TheIOFoundation.org/tiof-tu-fellowships-openings](https://short.theiofoundation.org/tiof-tu-fellowships-openings) | <img src="../.gitbook/assets/image.png" alt="" data-size="original">     |
+|                      |                                                                                                                                  |                                                                          |
 
 
+{% endtab %}
 
+{% tab title="Other" %}
+
+{% endtab %}
+{% endtabs %}
 
