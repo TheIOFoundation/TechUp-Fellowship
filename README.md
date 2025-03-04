@@ -2,7 +2,11 @@
 
 {% include ".gitbook/includes/page-under-construction.....md" %}
 
+## About
 
+Under the TechUp initiative, the Tech Up Fellowship, is a project by The IO Foundation designed to equip technologists with a solid understanding of the Standards Developing Organizations (SDOs) ecosystem. Participants will acquire the necessary skills to engage in the development of digital standards and policies, ensuring that technology prioritizes protecting users by design through the observance of the Data-Centric Digital Rights framework.
+
+The fellowship encourages collaboration and provides opportunities for active participation in SDO activities and meetings.
 
 
 
@@ -46,3 +50,23 @@ UntitledTab optionsNext SeasonTab optionsPrevious SeasonsTab optionsFind here up
 ### Vote & Suggest <a href="#vote-and-suggest" id="vote-and-suggest"></a>
 
 Change hint typeWe are preparing a platform to hear about your interests and vote for upcoming activities.Stay tuned.​\
+
+
+
+
+## Join the FellowshIp of the O&#x20;
+
+Being a Fellow The fellowship will help you to:
+
+* understand how the Standards Developing Organizations' ecosystem functions
+* discover which SDOs should matter **to you and your career**
+* actively participate actively in the standards and policies that shape the digital ecosystem
+* be availed of opportunities to participate in SDO work, activities and meetings
+* ensure that technology protects users by design
+
+## Types of fellowship engagements
+
+Engagements are of 2 types:
+
+Activity-specific Season-wide
+
