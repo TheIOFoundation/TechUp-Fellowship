@@ -8,7 +8,7 @@ The fellowship encourages collaboration and provides opportunities for active pa
 
 ### On the Spotlight <a href="#on-the-spotlight" id="on-the-spotlight"></a>
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>[#TIOF] Fellowship - IETF 122</td><td><a href=".gitbook/assets/Grayscaleimage77442.jpg">Grayscaleimage77442.jpg</a></td><td><a href="https://short.theiofoundation.org/tioffellowshipietf122info">https://short.theiofoundation.org/tioffellowshipietf122info</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>[#TIOF] Fellowship - IETF 122</td><td><a href=".gitbook/assets/Grayscaleimage77442.jpg">Grayscaleimage77442.jpg</a></td><td><a href="https://short.theiofoundation.org/tiof-fellowship-ietf-122-info">https://Short.TheIOFoundation.org/tiof-fellowship-ietf-122-info</a></td></tr></tbody></table>
 
 {% include ".gitbook/includes/join-the-fellowship-of-the-o.md" %}
 

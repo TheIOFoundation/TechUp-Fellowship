@@ -11,7 +11,7 @@
   * [01 - January](current-season/season-2025/01-january.md)
   * [02 - February](current-season/season-2025/02-february.md)
   * [03 - March](current-season/season-2025/03-march/README.md)
-    * [\[#TIOF\] Fellowship - IETF 122](https://short.theiofoundation.org/tioffellowshipietf122info)
+    * [\[#TIOF\] Fellowship - IETF 122](https://short.theiofoundation.org/tiof-fellowship-ietf-122-info)
   * [04 - April](current-season/season-2025/04-april.md)
   * [05 - May](current-season/season-2025/05-may.md)
   * [06 - June](current-season/season-2025/06-june.md)
