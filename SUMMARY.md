@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+  * [Project Information](introduction/project-information.md)
   * [Media Kit](introduction/media-kit.md)
   * [Frequently Asked Questions](introduction/frequently-asked-questions.md)
 
