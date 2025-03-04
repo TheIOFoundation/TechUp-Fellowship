@@ -6,11 +6,7 @@ Under the TechUp initiative, the Tech Up Fellowship, is a project by The IO Foun
 
 The fellowship encourages collaboration and provides opportunities for active participation in SDO work and activities.
 
-## Join the Fellowsh<mark style="color:orange;">I</mark>p of the <mark style="color:orange;">O</mark>!
-
-Interested in joining our Fellowship?
-
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h3>Check ongoing opportunities</h3></td><td><a href="../#on-the-spotlight">#on-the-spotlight</a></td><td><a href="../.gitbook/assets/Grayscaleimage69744.jpg">Grayscaleimage69744.jpg</a></td></tr><tr><td><h2>Register your interest and we will update you</h2><p>(coming soon)</p></td><td></td><td><a href="../.gitbook/assets/Grayscaleimage74867.jpg">Grayscaleimage74867.jpg</a></td></tr></tbody></table>
+{% include "../.gitbook/includes/join-the-fellowship-of-the-o.md" %}
 
 ## Benefits
 
