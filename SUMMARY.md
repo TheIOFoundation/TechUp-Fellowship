@@ -1,9 +1,11 @@
 # Table of contents
 
+## ABOUT
+
 * [Introduction](README.md)
-  * [Project Information](introduction/project-information.md)
-  * [Media Kit](introduction/media-kit.md)
-  * [Frequently Asked Questions](introduction/frequently-asked-questions.md)
+* [Project Information](about/project-information.md)
+* [Media Kit](about/media-kit.md)
+* [Frequently Asked Questions](about/frequently-asked-questions.md)
 
 ## Current Season
 
