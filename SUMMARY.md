@@ -5,6 +5,9 @@
 * [Introduction](README.md)
 * [Project Information](about/project-information.md)
 * [Media Kit](about/media-kit.md)
+* [Join Us](about/join-us.md)
+* [Support Us](about/support-us.md)
+* [Partners](about/partners.md)
 * [Frequently Asked Questions](about/frequently-asked-questions.md)
 
 ## Current Season
@@ -24,6 +27,15 @@
   * [10 - October](current-season/season-2025/10-october.md)
   * [11 - November](current-season/season-2025/11-november.md)
   * [12 - December](current-season/season-2025/12-december.md)
+
+## Upcoming Seasons
+
+* [Work in Progress](upcoming-seasons/work-in-progress.md)
+
+## Previous Seasons
+
+* [Work in Progress](previous-seasons/work-in-progress.md)
+* [Page 1](previous-seasons/page-1.md)
 
 ## TEMPLATES
 

@@ -1,3 +1,7 @@
+---
+icon: star
+---
+
 # Introduction
 
 ## About
