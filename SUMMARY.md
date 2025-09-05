@@ -37,6 +37,10 @@
 * [Work in Progress](previous-seasons/work-in-progress.md)
 * [Page 1](previous-seasons/page-1.md)
 
+## NOTICE
+
+* [Section Under Maintenance](notice/section-under-maintenance.md)
+
 ## TEMPLATES
 
 * [Season 20XX](templates/season-20xx/README.md)
