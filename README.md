@@ -1,5 +1,6 @@
 ---
 icon: star
+coverY: 0
 ---
 
 # Introduction
