@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-* [Introduction](README.md)
+* [Spotlight](README.md)
 * [Project Information](about/project-information.md)
 * [Join Us](about/join-us.md)
 * [Support Us](about/support-us.md)
@@ -32,7 +32,7 @@
 
 ## Upcoming Seasons
 
-* [Work in Progress](upcoming-seasons/work-in-progress.md)
+* [Season 2026](upcoming-seasons/season-2026.md)
 
 ## Previous Seasons
 

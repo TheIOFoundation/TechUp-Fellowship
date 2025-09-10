@@ -1,5 +1,5 @@
 ---
-icon: star
+icon: bullseye
 cover: .gitbook/assets/TU Fellowship.png
 coverY: 0
 layout:
@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# Introduction
+# Spotlight
 
 ## About
 
