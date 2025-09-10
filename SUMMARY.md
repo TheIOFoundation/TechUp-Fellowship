@@ -4,10 +4,12 @@
 
 * [Introduction](README.md)
 * [Project Information](about/project-information.md)
-* [Media Kit](about/media-kit.md)
 * [Join Us](about/join-us.md)
 * [Support Us](about/support-us.md)
 * [Partners](about/partners.md)
+* [Media Kit](about/media-kit.md)
+* [Awards](about/awards.md)
+* [Media Archive](about/media-archive.md)
 * [Frequently Asked Questions](about/frequently-asked-questions.md)
 
 ## Current Season
