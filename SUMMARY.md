@@ -1,12 +1,8 @@
 # Table of contents
 
-## NOTICE
-
-* [Section Under Maintenance](README.md)
-
 ## ABOUT
 
-* [Spotlight](<README (1).md>)
+* [Spotlight](README.md)
 * [Project Information](about/project-information.md)
 * [Join Us](about/join-us.md)
 * [Support Us](about/support-us.md)
@@ -58,3 +54,7 @@
   * [10 - October](templates/season-20xx/10-october.md)
   * [11 - November](templates/season-20xx/11-november.md)
   * [12 - December](templates/season-20xx/12-december.md)
+
+## NOTICE
+
+* [Section Under Maintenance](<README (1).md>)
