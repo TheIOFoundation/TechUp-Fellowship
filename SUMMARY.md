@@ -1,8 +1,12 @@
 # Table of contents
 
+## NOTICE
+
+* [Section Under Maintenance](README.md)
+
 ## ABOUT
 
-* [Spotlight](README.md)
+* [Spotlight](<README (1).md>)
 * [Project Information](about/project-information.md)
 * [Join Us](about/join-us.md)
 * [Support Us](about/support-us.md)
@@ -38,10 +42,6 @@
 
 * [Work in Progress](previous-seasons/work-in-progress.md)
 * [Page 1](previous-seasons/page-1.md)
-
-## NOTICE
-
-* [Section Under Maintenance](notice/section-under-maintenance.md)
 
 ## TEMPLATES
 
