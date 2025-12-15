@@ -25,7 +25,7 @@ layout:
 
 ### On the Spotlight <a href="#on-the-spotlight" id="on-the-spotlight"></a>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href=".gitbook/assets/[#TIOF] Comms [P] 0000-00-00 TIOF TU Fellowship APRICOT 2026 - X Post ENG v1.0.png">[#TIOF] Comms [P] 0000-00-00 TIOF TU Fellowship APRICOT 2026 - X Post ENG v1.0.png</a></td><td></td></tr><tr><td></td><td></td><td></td><td><a href=".gitbook/assets/[#TIOF] Comms [P] 0000-00-00 TIOF TU Fellowship IETF 125 - X Post ENG v1.0.png">[#TIOF] Comms [P] 0000-00-00 TIOF TU Fellowship IETF 125 - X Post ENG v1.0.png</a></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">TechUp Fellowship</td><td align="center">APRICOT 2026</td><td><a href=".gitbook/assets/[#TIOF] Comms [P] 0000-00-00 TIOF TU Fellowship APRICOT 2026 - X Post ENG v1.0.png">[#TIOF] Comms [P] 0000-00-00 TIOF TU Fellowship APRICOT 2026 - X Post ENG v1.0.png</a></td><td></td></tr><tr><td align="center">TechUp Fellowship</td><td align="center">IETF 125</td><td><a href=".gitbook/assets/[#TIOF] Comms [P] 0000-00-00 TIOF TU Fellowship IETF 125 - X Post ENG v1.0.png">[#TIOF] Comms [P] 0000-00-00 TIOF TU Fellowship IETF 125 - X Post ENG v1.0.png</a></td><td></td></tr></tbody></table>
 
 {% columns %}
 {% column %}
