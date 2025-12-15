@@ -32,12 +32,23 @@
 
 ## Upcoming Seasons
 
-* [Season 2026](upcoming-seasons/season-2026.md)
+* [Season 2026](upcoming-seasons/season-2026/README.md)
+  * [01 - January](upcoming-seasons/season-2026/01-january.md)
+  * [02 - February](upcoming-seasons/season-2026/02-february.md)
+  * [03 - March](upcoming-seasons/season-2026/03-march.md)
+  * [04 - April](upcoming-seasons/season-2026/04-april.md)
+  * [05 - May](upcoming-seasons/season-2026/05-may.md)
+  * [06 - June](upcoming-seasons/season-2026/06-june.md)
+  * [07 - July](upcoming-seasons/season-2026/07-july.md)
+  * [08 - August](upcoming-seasons/season-2026/08-august.md)
+  * [09 - September](upcoming-seasons/season-2026/09-september.md)
+  * [10 - October](upcoming-seasons/season-2026/10-october.md)
+  * [11 - November](upcoming-seasons/season-2026/11-november.md)
+  * [12 - December](upcoming-seasons/season-2026/12-december.md)
 
 ## Previous Seasons
 
-* [Work in Progress](previous-seasons/work-in-progress.md)
-* [Page 1](previous-seasons/page-1.md)
+* [GROUP Holder](previous-seasons/group-holder.md)
 
 ## TEMPLATES
 
