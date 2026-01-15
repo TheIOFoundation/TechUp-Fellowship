@@ -1,5 +1,6 @@
 ---
 description: ⚡Brewing something new. Thanks for hanging in there!
+noIndex: true
 cover: .gitbook/assets/Work in Progress.png
 coverY: 0
 layout:
